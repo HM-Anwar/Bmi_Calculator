@@ -1,4 +1,7 @@
-# bm
+# BMI CALCULATOR
+
+<img src="https://github.com/HM-Anwar/Bmi_Calculator/blob/main/screenshots/1.jpg"  height= '700' >      <img src="https://github.com/HM-Anwar/Bmi_Calculator/blob/main/screenshots/2.jpg" height= '700'>
+
 
 A new Flutter project.
 
